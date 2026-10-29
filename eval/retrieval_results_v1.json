@@ -1,0 +1,20 @@
+{
+ "dense": {
+  "mode": "dense",
+  "questions": 50,
+  "recall_at_5": 0.44,
+  "p95_latency_s": 0.05
+ },
+ "hybrid": {
+  "mode": "hybrid",
+  "questions": 50,
+  "recall_at_5": 0.54,
+  "p95_latency_s": 0.05
+ },
+ "rerank": {
+  "mode": "rerank",
+  "questions": 50,
+  "recall_at_5": 0.72,
+  "p95_latency_s": 14.72
+ }
+}
