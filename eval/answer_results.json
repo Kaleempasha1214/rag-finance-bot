@@ -1,0 +1,9 @@
+{
+ "rerank": {
+  "mode": "rerank",
+  "questions": 50,
+  "faithfulness": 0.64,
+  "answer_correctness": 0.7,
+  "refusal_rate": 0.24
+ }
+}
